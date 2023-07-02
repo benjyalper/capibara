@@ -19,7 +19,6 @@ h1 {
 
 
 
-
 #capibara {
     /* transform: scaleX(-1); */
     z-index: 1;
@@ -35,3 +34,8 @@ h1 {
 .highlighted {
     border: 5px solid salmon;
 }
+
+
+/* .background-container>.background-item:nth-child(1) {
+    border: 5px solid salmon;
+} */
